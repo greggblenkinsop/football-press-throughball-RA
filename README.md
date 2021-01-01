@@ -29,3 +29,5 @@ The program outputs a scatter plot graph with the following features:
 - Colour of Point: The R^2 value calculated across all the games of the target team.
 
 Here is an example of the graph with an added table to show the R^2 values.
+
+![Example graph](https://github.com/greggblenkinsop/football-press-throughball-RA/blob/main/premierleague20-21analysis.png?raw=true)
